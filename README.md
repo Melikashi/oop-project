@@ -1,4 +1,4 @@
-# oop-project in Sharif University of Tecknology
+# oop-project in Sharif University of Technology
 Electrical Engineering collage
 Name : Melika Pourakbar
 Student Number 402101414
